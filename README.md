@@ -11,7 +11,6 @@ You can click the Preview link to take a look at your changes.
 
 For my study
 =======
-------
 
 Before study, I must know about MarkDown Language for write readme.md
 this is link that organized markdown language
