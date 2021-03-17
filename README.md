@@ -11,3 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 ------
 ##### 1. Study JavaScript (2021-03-17 ~ ing)
+
+this is youtube link that i study
+  https://www.youtube.com/watch?v=YBjufjBaxHo&list=PLv2d7VI9OotTVOL4QmPfvJWPJvkmv6h-2&index=4
+  
