@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 # For my study
 =======
 
-Before study, <br/> I must know about MarkDown Language for write readme.md <br/>
+Before study, <br/> I must know about **MarkDown Language** for write readme.md <br/>
 this is link that organized markdown language <br/>
   https://gist.github.com/ihoneymon/652be052a0727ad59601 <br/>
 
@@ -35,6 +35,6 @@ this is youtube link that i study <br/>
 ---
 > ### 3. Studying Spring (2021-03-18 ~ ing)
 <br/>
-this is my repository<br/>
+**this is my repository**<br/>
   https://github.com/whdudal1217/springStudy.git
 <br/> 
