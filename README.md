@@ -27,5 +27,6 @@ this is youtube link that i study
 
 this is youtube link that i study
   https://www.youtube.com/watch?v=lPrxhA4PLoA
+  
   https://git-scm.com/docs --> collection made up by git commands
 
